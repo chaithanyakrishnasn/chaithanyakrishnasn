@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Krishna
+# Hi, I'm Krishna
 
-## 🚀 AI-Powered Cybersecurity | Adversarial AI | Attack Simulation
+## AI-Powered Cybersecurity | Adversarial AI | Attack Simulation
 
 Operating at the intersection of **AI and cyber warfare**, focused on building intelligent systems that can **detect, adapt to, and simulate evolving cyber threats**.
 
