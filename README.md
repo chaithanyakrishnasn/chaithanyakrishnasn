@@ -77,7 +77,7 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 
 ## 📫 Connect With Me
 
-- Mail: chaithanyakrishansn@gmail.com
+- Mail: chaithanyakrishnasn@gmail.com
 - LinkedIn: www.linkedin.com/in/krrishnachaithanya
 - GitHub: You're already here 😉
 
