@@ -8,26 +8,26 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 
 ## 🧠 About Me
 
-- 🎓 Computer Science undergraduate with a focus on **Cybersecurity**
-- 🔍 Building **AI-driven security systems** and threat detection models  
-- ⚔️ Exploring **Adversarial AI & AI-driven attack simulation**
-- 🧪 Interested in **security research** and resilient AI systems  
+-  Computer Science undergraduate with a focus on **Cybersecurity**
+-  Building **AI-driven security systems** and threat detection models  
+-  Exploring **Adversarial AI & AI-driven attack simulation**
+-  Interested in **security research** and resilient AI systems  
 
 ---
 
 ## 🛠️ What I Do
 
-- 🤖 Develop **machine learning models** for cybersecurity applications  
-- 🛡️ Build **Intrusion Detection Systems (NIDS)** and anomaly detection systems  
-- 🔄 Simulate **adaptive and evasive cyber attacks** using AI  
-- 📊 Analyze patterns in complex datasets for **threat intelligence**  
+-  Develop **machine learning models** for cybersecurity applications  
+-  Build **Intrusion Detection Systems (NIDS)** and anomaly detection systems  
+-  Simulate **adaptive and evasive cyber attacks** using AI  
+-  Analyze patterns in complex datasets for **threat intelligence**  
 
 ---
 
 ## ⚡ Tech Stack
 
 **Languages**
-- Python 🐍  
+- Python   
 - Java (Intermediate)
 
 **AI / ML**
@@ -83,7 +83,7 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 
 ---
 
-## ⚠️ Philosophy
+## Philosophy
 
 > "To build truly secure systems, you must understand how they break."
 
