@@ -6,7 +6,7 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 
 ---
 
-## 🧠 About Me
+## About Me
 
 -  Computer Science undergraduate with a focus on **Cybersecurity**
 -  Building **AI-driven security systems** and threat detection models  
@@ -15,7 +15,7 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 
 ---
 
-## 🛠️ What I Do
+## What I Do
 
 -  Develop **machine learning models** for cybersecurity applications  
 -  Build **Intrusion Detection Systems (NIDS)** and anomaly detection systems  
@@ -24,7 +24,7 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 **Languages**
 - Python   
@@ -45,7 +45,7 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 
 ---
 
-## 📂 Projects
+## Projects
 
 🔹 **AI-based Network Intrusion Detection System (NIDS)**  
 - Machine learning model for detecting malicious network activity  
@@ -59,14 +59,14 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Google Professional Cybersecurity  
 - Google Cloud Security  
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 
 - Adversarial Machine Learning  
 - AI-driven Attack Simulation  
@@ -75,11 +75,11 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - Mail: chaithanyakrishnasn@gmail.com
 - LinkedIn: www.linkedin.com/in/krrishnachaithanya
-- GitHub: You're already here 😉
+- GitHub: You're already here !
 
 ---
 
