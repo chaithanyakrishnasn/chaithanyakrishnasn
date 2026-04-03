@@ -45,20 +45,6 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 
 ---
 
-## Projects
-
-🔹 **AI-based Network Intrusion Detection System (NIDS)**  
-- Machine learning model for detecting malicious network activity  
-- Focus on anomaly detection and evolving attack patterns  
-
-🔹 **Security-focused ML Models**  
-- Built models for identifying suspicious behavior in datasets  
-- Exploring robustness against adversarial inputs  
-
-*(More projects coming soon…)*
-
----
-
 ## Certifications
 
 - Google Professional Cybersecurity  
