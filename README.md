@@ -29,19 +29,30 @@ Operating at the intersection of **AI and cyber warfare**, focused on building i
 **Languages**
 - Python   
 - Java (Intermediate)
+- SQL
+- BASH
 
-**AI / ML**
+**Backend & Databases**
+- FastAPI
+- REST APIs
+- Pydantic
+- PostgreSQL
+- MongoDB
+- Chroma 
+
+**Tools & Technologies**
+- Linux  
+- Git & GitHub
+- GitHub Actions
+- Postman
+- Docker & Kubernetes
+
+**AI / ML / LLM**
 - scikit-learn  
 - TensorFlow / PyTorch (learning & applying)
-
-**Cybersecurity**
-- Network Security  
-- Intrusion Detection Systems  
-- Threat Analysis  
-
-**Tools & Platforms**
-- Linux  
-- Git & GitHub  
+- OpenAI/Gemini API
+- LangChain, LangGraph
+- RAG
 
 ---
 
