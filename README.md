@@ -57,9 +57,6 @@ from RAG pipelines and LLM-driven workflows to adversarial AI and real-time thre
 **Databases**
 - PostgreSQL (+ pgvector) · MongoDB · Redis · SQLite · ChromaDB
 
-**Frontend**
-- Next.js 15 · React 19 · Tailwind CSS · shadcn/ui · Zustand · TanStack Query
-
 **Cloud & DevOps**
 - AWS (EC2, S3, IAM, CloudWatch, SNS) · Docker · GitHub Actions · CI/CD
 - Vercel · Render · Supabase · Linux · Git
