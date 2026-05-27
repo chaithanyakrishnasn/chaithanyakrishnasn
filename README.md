@@ -68,7 +68,7 @@ from RAG pipelines and LLM-driven workflows to adversarial AI and real-time thre
 
 ## Featured Projects
 
-### [AI-Powered Government Schemes Advisor](https://github.com/chaithanyakrishnasn)
+### [AI-Powered Government Schemes Advisor](https://github.com/chaithanyakrishnasn/ai-powered-govt-schemes-advisor)
 > Multilingual AI advisor matching 334+ Indian government welfare schemes to citizen profiles
 
 **Stack:** Next.js 15 · FastAPI · PostgreSQL + pgvector · Gemini 2.5 Flash · Instructor · Supabase · Vercel · Render
@@ -80,7 +80,7 @@ from RAG pipelines and LLM-driven workflows to adversarial AI and real-time thre
 
 ---
 
-### [Agentic Security Operations Platform](https://github.com/chaithanyakrishnasn)
+### [Agentic Security Operations Platform](https://github.com/chaithanyakrishnasn/agentic-driven-soc)
 > Full-stack SOC platform with LLM-driven agents and real-time ML threat detection
 
 **Stack:** Python · FastAPI · Next.js 14 · Claude API · Scikit-learn · ChromaDB · Redis Streams · PostgreSQL · Docker
@@ -91,7 +91,7 @@ from RAG pipelines and LLM-driven workflows to adversarial AI and real-time thre
 
 ---
 
-### [LLM Security Lab — Prompt Injection Benchmark](https://github.com/chaithanyakrishnasn)
+### [LLM Security Lab — Prompt Injection Benchmark](https://github.com/chaithanyakrishnasn/llm-security-lab)
 > Adversarial prompt injection testing framework with LLM-as-judge evaluation
 
 **Stack:** Python · OpenAI-compatible API · Rule-based + LLM-Judge Evaluator
@@ -102,7 +102,7 @@ from RAG pipelines and LLM-driven workflows to adversarial AI and real-time thre
 
 ---
 
-### [AI Knowledge Copilot — Enterprise RAG Assistant](https://github.com/chaithanyakrishnasn)
+### [AI Knowledge Copilot — Enterprise RAG Assistant](https://github.com/chaithanyakrishnasn/ai-knowledge-copilot)
 > Production-ready RAG system for enterprise document Q&A with conversational memory
 
 **Stack:** Python · FastAPI · ChromaDB · OpenAI API · SentenceTransformers · LangChain · Docker
@@ -112,7 +112,7 @@ from RAG pipelines and LLM-driven workflows to adversarial AI and real-time thre
 
 ---
 
-### [Intelligent Workflow Automation Engine](https://github.com/chaithanyakrishnasn)
+### [Intelligent Workflow Automation Engine](https://github.com/chaithanyakrishnasn/intelligent-workflow-automation-engine)
 > End-to-end automation platform with timer, webhook, and AI-driven execution
 
 **Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · APScheduler · Pydantic
