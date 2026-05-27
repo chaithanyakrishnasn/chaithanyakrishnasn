@@ -134,7 +134,6 @@ from RAG pipelines and LLM-driven workflows to adversarial AI and real-time thre
 - Hybrid retrieval systems (SQL + vector + LLM reasoning)
 - Adversarial ML & evasion-resistant detection models
 - Autonomous multi-agent architectures
-- Multilingual LLM pipelines for Indian language contexts
 - LLM evaluation & red teaming methodologies
 
 ---
