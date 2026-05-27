@@ -71,7 +71,7 @@ from RAG pipelines and LLM-driven workflows to adversarial AI and real-time thre
 ### [AI-Powered Government Schemes Advisor](https://github.com/chaithanyakrishnasn/ai-powered-govt-schemes-advisor)
 > Multilingual AI advisor matching 334+ Indian government welfare schemes to citizen profiles
 
-**Stack:** Next.js 15 · FastAPI · PostgreSQL + pgvector · Gemini 2.5 Flash · Instructor · Supabase · Vercel · Render
+**Stack:** Next.js 15 · FastAPI · PostgreSQL + pgvector · Gemini 2.5 Flash · Instructor
 
 - 3-stage hybrid retrieval: SQL eligibility filter (~50ms) → pgvector semantic search → Gemini 2.5 Flash reasoning
 - UNKNOWN-aware rule evaluation across 1,763 structured eligibility rules extracted from unstructured govt. text
